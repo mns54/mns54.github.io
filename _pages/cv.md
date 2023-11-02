@@ -15,7 +15,8 @@ redirect_from:
 * B.S. in Civil Engineering, University of Tokyo, Mar 2019
 
 ## Teaching Experience
-Teaching Assistant, University of Wisconsin-Madison
+
+### Teaching Assistant, University of Wisconsin-Madison
 * Introductory Econometrics (Undergraduate), Fall 2022, Spring 2023
 
 ## Professional and Research Experience
@@ -27,6 +28,6 @@ Teaching Assistant, University of Wisconsin-Madison
 * Analyst Intern, Jan - Jul 2021, Summer 2022, Jun 2023
 
 ### University of Tokyo
-* Research Assistant for Yasutora Watanabe, Apr 2020 - Mar 2021 \\
-* Research Assistant for Hiroshi Ohashi, Aug - Nov 2019 \\
+* Research Assistant for Yasutora Watanabe, Apr 2020 - Mar 2021
+* Research Assistant for Hiroshi Ohashi, Aug - Nov 2019
 * Research Assistant for Yu Maemura, Aug - Sep 2018
