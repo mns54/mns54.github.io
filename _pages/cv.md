@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+## Contact Information
+* Email: mnishida\[at\]wisc.edu
+* Address: Social Science, 1180 Observatory Drive, Madison, WI, USA
+
+## Research Interests
+* Industrial Organization
+* Applied Econometrics
+
 ## Education
 * Ph.D. student in Economics, University of Wisconsin-Madison, Aug 2021 - Present
 * M.S. in Economics, University of Wisconsin-Madison, Dec 2023
@@ -36,3 +44,11 @@ redirect_from:
 ## Honors and Awards
 * Japan-IMF Scholarship for Advanced Studies, Aug 2021 - Jul 2023
 * JSPS Research Fellowship (DC1), Japan Society for the Promotion of Science, Apr - Aug 2021
+
+## Languages
+
+English (fluent), Japanese (native)
+
+## Computer Programming
+
+R, Julia, Python, Matlab, Stata
