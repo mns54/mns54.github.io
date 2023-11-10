@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Contact Information
+* Affiliation: Ph.D. student, Department of Economics, University of Wisconsin-Madison
 * Email: mnishida\[at\]wisc.edu
 * Address: Social Science, 1180 Observatory Drive, Madison, WI, USA
 
