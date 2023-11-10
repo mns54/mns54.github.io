@@ -11,6 +11,7 @@ redirect_from:
 
 ## Education
 * Ph.D. student in Economics, University of Wisconsin-Madison, Aug 2021 - Present
+* M.S. in Economics, University of Wisconsin-Madison, Dec 2023
 * M.A. in Economics, University of Tokyo, Mar 2021
 * B.S. in Civil Engineering, University of Tokyo, Mar 2019
 
@@ -31,3 +32,7 @@ redirect_from:
 * Research Assistant for Yasutora Watanabe, Apr 2020 - Mar 2021
 * Research Assistant for Hiroshi Ohashi, Aug - Nov 2019
 * Research Assistant for Yu Maemura, Aug - Sep 2018
+
+## Honors and Awards
+* Japan-IMF Scholarship for Advanced Studies, Aug 2021 - Jul 2023
+* JSPS Research Fellowship (DC1), Japan Society for the Promotion of Science, Apr - Aug 2021
