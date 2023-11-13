@@ -15,6 +15,14 @@ Hi, I am Masahiro Nishida (西田成佑 in Japanese), a Ph.D. student in Economi
 ## Contact Information
 * Email: mnishida\[at\]wisc.edu
 
+## Research
+
+### Work in Progress
+* Productivity \(Re/Mis\)Allocation and Markups in a Collusive and Declining Industry  
+(with Yasutora Watanabe, Nishida is the first author)
+* Collusions in Declining Demand  
+(with Satoshi Imahie, Kazuma Takakura, and Yasutora Watanabe)
+
 ## Education
 * Ph.D. student in Economics, University of Wisconsin-Madison, Aug 2021 - Present
 * M.S. in Economics, University of Wisconsin-Madison, Dec 2023
