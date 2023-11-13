@@ -17,7 +17,7 @@ Hi, I am Masahiro Nishida (西田成佑 in Japanese), a Ph.D. student in Economi
 
 ## Research
 
-### Working Paper
+### Work in Progress
 * Productivity Reallocation and Markups in a Collusive and Declining Industry  
 (with Yasutora Watanabe, Nishida is the first author)
 * Collusions in Declining Demand  
