@@ -50,11 +50,3 @@ Hi, I am Masahiro Nishida (西田成佑 in Japanese), a Ph.D. student in Economi
 ## Honors and Awards
 * Japan-IMF Scholarship for Advanced Studies, Aug 2021 - Jul 2023
 * JSPS Research Fellowship (DC1), Japan Society for the Promotion of Science, Apr - Aug 2021
-
-## Languages
-
-English (fluent), Japanese (native)
-
-## Computer Programming
-
-R, Julia, Python, Matlab, Stata
