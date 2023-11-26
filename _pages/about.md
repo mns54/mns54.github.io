@@ -12,7 +12,7 @@ redirect_from:
 
 Hi, I am Masahiro Nishida (西田成佑 in Japanese), a Ph.D. student in Economics at University of Wisconsin-Madison. My research interests are industrial organization and applied econometrics.
 
-Email: mnishida\[at\]wisc.edu
+**Email**: mnishida\[at\]wisc.edu
 
 ## Research
 
