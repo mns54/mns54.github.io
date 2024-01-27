@@ -28,7 +28,7 @@ Hi, I am Masahiro Nishida (西田成佑 in Japanese), a Ph.D. student in Economi
 * M.A. in Economics, University of Tokyo, Mar 2021
 * B.S. in Civil Engineering, University of Tokyo, Mar 2019
 
-## Teaching Experience
+## Teaching
 
 ### Teaching Assistant, University of Wisconsin-Madison
 * Introductory Econometrics (Undergraduate), Fall 2022, Spring 2023
@@ -36,7 +36,7 @@ Hi, I am Masahiro Nishida (西田成佑 in Japanese), a Ph.D. student in Economi
 ## Professional and Research Experience
 
 ### University of Wisconsin-Madison
-* Research Assistant for Jean-François Houde, Fall 2023
+* Research Assistant for Jean-François Houde, Fall 2023 &ndash; Spring 2024
 
 ### UTokyo Economic Consulting Inc.
 * Analyst Intern, Jan &ndash; Jul 2021, Summer 2022, Jun 2023
