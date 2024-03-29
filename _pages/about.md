@@ -10,15 +10,13 @@ redirect_from:
   - /home.html
 ---
 
-Hi, I am Masahiro Nishida (西田成佑 in Japanese), a Ph.D. student in Economics at University of Wisconsin-Madison. My research interests are industrial organization and applied econometrics.
+Hi! I am Masahiro Nishida, a Ph.D. student in Economics at University of Wisconsin-Madison. My research interests are industrial organization and applied econometrics.
 
 **Email**: mnishida\[at\]wisc.edu
 
 ## Research
 
 ### Work in Progress
-* Productivity \(Re/Mis\)Allocation and Markups in a Collusive and Declining Industry  
-(with Yasutora Watanabe, Nishida is the first author)
 * Collusions in Declining Demand  
 (with Satoshi Imahie, Kazuma Takakura, and Yasutora Watanabe)
 
@@ -35,17 +33,16 @@ Hi, I am Masahiro Nishida (西田成佑 in Japanese), a Ph.D. student in Economi
 
 ## Professional and Research Experience
 
-### University of Wisconsin-Madison
-* Research Assistant for Jean-François Houde, Fall 2023 &ndash; Spring 2024
-
-### UTokyo Economic Consulting Inc.
-* Analyst Intern, Jan &ndash; Jul 2021, Summer 2022, Jun 2023
-
-### University of Tokyo
-* Research Assistant for Yasutora Watanabe, Apr 2020 &ndash; Mar 2021
-* Research Assistant for Hiroshi Ohashi, Aug &ndash; Nov 2019
-* Research Assistant for Yu Maemura, Aug &ndash; Sep 2018
+* Intern, International Monetary Fund, Summer 2024
+* Research Assistant for Jean-François Houde, University of Wisconsin-Madison, Fall 2023 &ndash; Spring 2024
+* Analyst Intern, UTokyo Economic Consulting Inc., Jan &ndash; Jul 2021, Summer 2022, Jun 2023
+* Research Assistant for Yasutora Watanabe, University of Tokyo, Apr 2020 &ndash; Mar 2021
+* Research Assistant for Hiroshi Ohashi, University of Tokyo, Aug &ndash; Nov 2019
+* Research Assistant for Yu Maemura, University of Tokyo, Aug &ndash; Sep 2018
 
 ## Honors and Awards
+
+* JASSO Scholarship, Japan Student Services Organization, Sep 2024 &ndash; May 2026
+* Juli Plant Grainger Summer Research Fellowship, University of Wisconsin-Madison, Summer 2024
 * Japan-IMF Scholarship, Aug 2021 &ndash; Jul 2023
 * JSPS Research Fellowship (DC1), Japan Society for the Promotion of Science, Apr &ndash; Aug 2021
