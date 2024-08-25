@@ -29,6 +29,7 @@ Hi! I am Masahiro Nishida, a Ph.D. student in Economics at University of Wiscons
 ## Teaching
 
 ### Teaching Assistant, University of Wisconsin-Madison
+* Introduction to Applied Econometrics (Undergraduate), Fall 2024
 * Introductory Econometrics (Undergraduate), Fall 2022, Spring 2023
 
 ## Professional and Research Experience
@@ -37,8 +38,6 @@ Hi! I am Masahiro Nishida, a Ph.D. student in Economics at University of Wiscons
 * Research Assistant for Jean-François Houde, University of Wisconsin-Madison, Fall 2023 &ndash; Spring 2024
 * Analyst Intern, UTokyo Economic Consulting Inc., Jan &ndash; Jul 2021, Summer 2022, Jun 2023
 * Research Assistant for Yasutora Watanabe, University of Tokyo, Apr 2020 &ndash; Mar 2021
-* Research Assistant for Hiroshi Ohashi, University of Tokyo, Aug &ndash; Nov 2019
-* Research Assistant for Yu Maemura, University of Tokyo, Aug &ndash; Sep 2018
 
 ## Honors and Awards
 
