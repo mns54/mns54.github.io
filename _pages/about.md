@@ -18,9 +18,9 @@ Hi! I am Masahiro Nishida, a Ph.D. student in Economics at University of Wiscons
 
 ### Work in Progress
 
-* Productivity and Misallocation in a Collusive and Declining Industry
+* Productivity and Misallocation in a Collusive and Declining Industry  
 (with Satoshi Imahie, Kazuma Takakura, and Yasutora Watanabe)
-* Cartel Sustainability under Declining Demand
+* Cartel Sustainability under Declining Demand  
 (with Ana Sofia Teles)
 
 ## Education
