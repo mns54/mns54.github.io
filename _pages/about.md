@@ -39,6 +39,7 @@ Hi! I am Masahiro Nishida, a Ph.D. student in Economics at University of Wiscons
 
 ## Professional and Research Experience
 
+* Guest Researcher, Center for Research and Education in Program Evaluation (CREPE), University of Tokyo, Sep 2024 &ndash; Present
 * Summer Intern, International Monetary Fund, Summer 2024
 * Research Assistant for Jean-François Houde, University of Wisconsin-Madison, Fall 2023 &ndash; Spring 2024
 * Analyst Intern, UTokyo Economic Consulting Inc., Jan &ndash; Jul 2021, Summer 2022, Jun 2023
