@@ -18,7 +18,7 @@ Hi! I am Masahiro Nishida, a Ph.D. student in Economics at University of Wiscons
 
 ### Work in Progress
 
-* Productivity and Misallocation in a Collusive and Declining Industry  
+* Allocative (In)Efficiency and Cartel in a Declining Industry  
 (with Satoshi Imahie, Kazuma Takakura, and [Yasutora Watanabe](https://sites.google.com/view/yas-watanabe/))
 * Cartel Sustainability under Declining Demand  
 (with [Ana Sofia Teles](https://econ.wisc.edu/staff/teixeira-teles-ana-sofia/))
@@ -37,14 +37,14 @@ Hi! I am Masahiro Nishida, a Ph.D. student in Economics at University of Wiscons
 ### Teaching Assistant, University of Wisconsin-Madison
 
 * Introduction to Applied Econometrics (Undergraduate), Fall 2024
-* Introductory Econometrics (Undergraduate), Fall 2022, Spring 2023
+* Introductory Econometrics (Undergraduate), Fall 2022, Spring 2023, Spring 2025
 
 ## Professional and Research Experience
 
 * Guest Researcher, Center for Research and Education in Program Evaluation (CREPE), University of Tokyo, Sep 2024 &ndash; Present
-* Summer Intern, International Monetary Fund, Summer 2024
+* Intern, International Monetary Fund, Jun &ndash; Aug 2024
 * Research Assistant for [Jean-François Houde](https://jfhoude.econ.wisc.edu/), University of Wisconsin-Madison, Fall 2023 &ndash; Spring 2024
-* Analyst Intern, UTokyo Economic Consulting Inc., Jan &ndash; Jul 2021, Summer 2022, Jun 2023
+* Analyst Intern, UTokyo Economic Consulting Inc., Jan &ndash; Jul 2021, Jul &ndash; Sep 2022, Jun 2023
 * Research Assistant for [Yasutora Watanabe](https://sites.google.com/view/yas-watanabe/), University of Tokyo, Apr 2020 &ndash; Mar 2021
 
 ## Honors and Awards
