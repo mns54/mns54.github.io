@@ -47,8 +47,9 @@ Hi! I am Masahiro Nishida, a Ph.D. student in Economics at University of Wiscons
 * Analyst Intern, UTokyo Economic Consulting Inc., Jan &ndash; Jul 2021, Jul &ndash; Sep 2022, Jun 2023
 * Research Assistant for [Yasutora Watanabe](https://sites.google.com/view/yas-watanabe/), University of Tokyo, Apr 2020 &ndash; Mar 2021
 
-## Honors and Awards
+## Grants, Honors, and Awards
 
+* Project Research Program Grant, Institute of Economic Research, Hitotsubashi University, Apr 2025 &ndash; Mar 2026
 * JASSO Scholarship, Japan Student Services Organization, Sep 2024 &ndash; May 2026
 * Juli Plant Grainger Summer Research Fellowship, University of Wisconsin-Madison, Summer 2024
 * Japan-IMF Scholarship, Aug 2021 &ndash; Jul 2023
