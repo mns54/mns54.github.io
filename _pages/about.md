@@ -18,7 +18,7 @@ Hi! I am Masahiro Nishida, a Ph.D. student in Economics at University of Wiscons
 
 ### Work in Progress
 
-* Allocative (In)Efficiency and Cartel in a Declining Industry  
+* Productivity and Competition in a Declining Industry  
 (with Satoshi Imahie, Kazuma Takakura, and [Yasutora Watanabe](https://sites.google.com/view/yas-watanabe/))
 * Cartel Sustainability under Declining Demand  
 (with [Ana Sofia Teles](https://econ.wisc.edu/staff/teixeira-teles-ana-sofia/))
