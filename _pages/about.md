@@ -17,10 +17,12 @@ Hi! I am Masahiro Nishida, a Ph.D. Candidate in Economics at University of Wisco
 ## Research
 
 ### Working Papers
-* Potential Growth and Productivity in the Caribbean  
-(with [Alexander Amundsen](https://www.alexanderamundsen.com/), [Sophia Chen](https://sites.google.com/site/sophiachenecon/), [Pierre Guérin](https://sites.google.com/view/pierreguerineconomics/), and [Sinem Kilic Celik](https://scholar.google.com/citations?user=YPa7HrYAAAAJ))
+* [Potential Growth and Productivity in the Caribbean](https://www.imf.org/en/Publications/WP/Issues/2025/08/08/Potential-Growth-and-Productivity-in-the-Caribbean-568394)  
+(with [Alexander Amundsen](https://www.alexanderamundsen.com/), [Sophia Chen](https://sites.google.com/site/sophiachenecon/), [Pierre Guérin](https://sites.google.com/view/pierreguerineconomics/), and [Sinem Kilic Celik](https://scholar.google.com/citations?user=YPa7HrYAAAAJ))  
+August 2025
 * Cartel Sustainability Under Declining Demand  
-(with [Ana Sofia Teles](https://anasofiateles.com/))
+(with [Ana Sofia Teles](https://anasofiateles.com/))  
+August 2025
 
 ### Work in Progress
 * The Impact of Cartels on Productivity  
