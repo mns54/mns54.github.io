@@ -26,7 +26,7 @@ August 2025
 
 ### Work in Progress
 * The Impact of Cartels on Productivity  
-(with Satoshi Imahie, [Kazuma Takakura](https://kazumatakakura.github.io/), and [Yasutora Watanabe](https://sites.google.com/view/yas-watanabe/))
+(with [Satoshi Imahie](https://sites.google.com/view/luciano-satoshi/home), [Kazuma Takakura](https://kazumatakakura.github.io/), and [Yasutora Watanabe](https://sites.google.com/view/yas-watanabe/))
 
 ## Education
 * Ph.D. Candidate in Economics, University of Wisconsin-Madison, Aug 2021 &ndash; Present
