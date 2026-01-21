@@ -399,3 +399,48 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Working paper abstracts
+   ========================================================================== */
+
+.wp-abstract {
+  margin-top: 0.25em;
+}
+
+.wp-abstract summary {
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 0.9em;
+  list-style: none;
+}
+
+.wp-abstract summary::-webkit-details-marker {
+  display: none;
+}
+
+.wp-abstract summary::marker {
+  content: "";
+}
+
+.wp-abstract summary::before {
+  content: "";
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-top: 0.35em solid transparent;
+  border-bottom: 0.35em solid transparent;
+  border-left: 0.45em solid currentColor;
+  margin-right: 0.45em;
+  transform-origin: 0.15em 0.35em;
+  transition: transform 0.15s ease;
+}
+
+.wp-abstract[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.wp-abstract__body {
+  margin: 0.35em 0 0.5em 0.9em;
+  font-size: 0.9em;
+}
