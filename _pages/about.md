@@ -12,7 +12,7 @@ redirect_from:
 
 Hi! I am Masahiro Nishida, a Ph.D. Candidate in Economics at University of Wisconsin-Madison. My research interests are industrial organization and applied microeconomics.
 
-**Email**: mnishida\[at\]wisc.edu
+**Email**: mnishida\[at\]wisc.edu  
 **CV**: [PDF](/files/CV.pdf)
 
 ## Research
@@ -48,12 +48,6 @@ August 2025
 
 ### Work in Progress
 * Sorting and Asymmetric Information in the Used Car Market: Evidence from Japan's Fuel Economy Scandal
-
-## Education
-* Ph.D. Candidate in Economics, University of Wisconsin-Madison, Sep 2021 &ndash; Present
-* M.S. in Economics, University of Wisconsin-Madison, Dec 2023
-* M.A. in Economics, University of Tokyo, Mar 2021
-* B.S. in Civil Engineering, University of Tokyo, Mar 2019
 
 ## Teaching
 
