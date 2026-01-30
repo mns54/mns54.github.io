@@ -12,7 +12,7 @@ redirect_from:
 
 Hi! I am Masahiro Nishida, a Ph.D. Candidate in Economics at University of Wisconsin-Madison. My research interests are industrial organization and applied microeconomics.
 
-&#91;[Email](mailto:mnishida@wisc.edu) &#124; [CV](/files/CV.pdf)&#93;
+[**Email**](mailto:mnishida@wisc.edu) &#124; [**CV**](/files/CV.pdf)
 
 
 ## Research
