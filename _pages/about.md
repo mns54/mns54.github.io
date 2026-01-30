@@ -12,19 +12,18 @@ redirect_from:
 
 Hi! I am Masahiro Nishida, a Ph.D. Candidate in Economics at University of Wisconsin-Madison. My research interests are industrial organization and applied microeconomics.
 
-**Email**: mnishida\[at\]wisc.edu  
-**CV**: [PDF](/files/CV.pdf)
+\[[Email](mnishida@wisc.edu) | [CV](/files/CV.pdf)\]
 
 ## Research
 
 ### Working Papers
-* The Impact of Cartels on Productivity: A Concrete Example from Japan  
+* [The Impact of Cartels on Productivity: A Concrete Example from Japan](/files/impact_cartel.pdf)  
 (with [Satoshi Imahie](https://sites.google.com/view/luciano-satoshi/home), [Kazuma Takakura](https://kazumatakakura.github.io/), and [Yasutora Watanabe](https://sites.google.com/view/yas-watanabe/))  
 January 2026  
   <details class="wp-abstract">
     <summary>Abstract</summary>
     <div class="wp-abstract__body">
-      We study the impact of cartels on productivity using a plant-level dataset from the Japanese ready-mixed concrete industry, where cartels can be legally permitted. Our annual panel covers 1993–2004 with information on inputs, outputs, and the timing of cartel formation and collapse. After estimating the plant-level productivity, we implement a difference-in-differences analysis, and show that cartel collapse increases both plant-level and market-level productivity, while cartel formation has no effect. Furthermore, a triple-difference analysis reveals that productivity gains are more pronounced for less productive plants and those in markets with higher plant density. These results, combined with a dynamic decomposition findings showing that market-level improvements are driven by within-plant changes rather than reallocation and exit, suggest that the treatment effect of competition is the primary driver of productivity gains following cartel collapse.
+      We study the impact of cartels on productivity using a plant-level dataset from the Japanese ready-mixed concrete industry, where cartels are legally permitted. Our annual panel covers 1993–2004 with information on inputs, outputs, and the timing of cartel formation and collapse. After estimating plant-level productivity, we adopt a difference-in-differences analysis, and show that cartel collapse increases both plant-level and market-level productivity, while cartel formation has no effect. Furthermore, a triple-difference analysis reveals that productivity gains are more pronounced for less productive plants and those in markets with higher plant density. These results, combined with decomposition analyses showing that market-level improvements are driven by within-plant changes rather than reallocation or exit, suggest that the treatment effect of competition is the primary driver of productivity gains following cartel collapse.
     </div>
   </details>
 * Cartel Sustainability Under Declining Demand  
