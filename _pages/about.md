@@ -47,7 +47,7 @@ August 2025
   </details>
 
 ### Work in Progress
-* Sorting and Asymmetric Information in the Used Car Market: Evidence from Japan's Fuel Economy Scandal
+* Sorting and Adverse Selection in the Used Car Market: Evidence from Japan's Fuel Economy Scandal
 
 ## Teaching
 
