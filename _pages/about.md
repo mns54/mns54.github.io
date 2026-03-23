@@ -21,6 +21,7 @@ Hi! I am Masahiro Nishida, a Ph.D. Candidate in Economics at University of Wisco
 * [The Impact of Cartels on Productivity: A Concrete Example from Japan](/files/impact_cartel.pdf)  
 (with [Satoshi Imahie](https://sites.google.com/view/luciano-satoshi/home), [Kazuma Takakura](https://kazumatakakura.github.io/), and [Yasutora Watanabe](https://sites.google.com/view/yas-watanabe/))  
 January 2026  
+Revision requested at *Quarterly Journal of Economics*  
   <details class="wp-abstract">
     <summary>Abstract</summary>
     <div class="wp-abstract__body">
@@ -47,7 +48,7 @@ August 2025
   </details>
 
 ### Work in Progress
-* Sorting and Adverse Selection in the Used Car Market: Evidence from Japan's Fuel Economy Scandal
+* The Effect of Product Quality Shocks on the Used Car Market: Evidence from Japan's Fuel Economy Scandal
 
 ## Teaching
 
