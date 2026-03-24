@@ -48,7 +48,7 @@ August 2025
   </details>
 
 ### Work in Progress
-* The Effect of Product Quality Shocks on the Used Car Market: Evidence from Japan's Fuel Economy Scandal
+* The Impact of Product Quality Shocks on the Used Car Market: Evidence from Japan's Fuel Economy Scandal
 
 ## Teaching
 
