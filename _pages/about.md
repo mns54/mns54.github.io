@@ -20,7 +20,7 @@ Hi! I am Masahiro Nishida, a Ph.D. Candidate in Economics at University of Wisco
 ### Working Papers
 * [The Impact of Cartels on Productivity: A Concrete Example from Japan](/files/impact_cartel.pdf)  
 (with [Satoshi Imahie](https://sites.google.com/view/luciano-satoshi/home), [Kazuma Takakura](https://kazumatakakura.github.io/), and [Yasutora Watanabe](https://sites.google.com/view/yas-watanabe/))  
-January 2026  
+March 2026  
 Revision requested at *Quarterly Journal of Economics*  
   <details class="wp-abstract">
     <summary>Abstract</summary>
