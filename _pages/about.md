@@ -40,6 +40,7 @@ August 2025
 * [Potential Growth and Productivity in the Caribbean](https://www.imf.org/en/Publications/WP/Issues/2025/08/08/Potential-Growth-and-Productivity-in-the-Caribbean-568394)  
 (with [Alexander Amundsen](https://www.alexanderamundsen.com/), [Sophia Chen](https://sites.google.com/site/sophiachenecon/), [Pierre Guérin](https://sites.google.com/view/pierreguerineconomics/), and [Sinem Kilic Celik](https://scholar.google.com/citations?user=YPa7HrYAAAAJ))  
 August 2025  
+Submitted  
   <details class="wp-abstract">
     <summary>Abstract</summary>
     <div class="wp-abstract__body">
@@ -48,7 +49,7 @@ August 2025
   </details>
 
 ### Work in Progress
-* Product Quality Shocks and Intermediaries: Evidence from the Used Car Market in Japan
+* Product-Harm Crises and Intermediaries in the Used Car Market
 
 ## Teaching
 
