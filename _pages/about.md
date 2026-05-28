@@ -51,14 +51,14 @@ Submitted
 ### Work in Progress
 * Product-Harm Crises and Intermediaries in the Used Car Market
 
-## Upcoming Presentation
-* 7/11: JEMIOWxJ-TREE Joint Workshop at GRIPS
-* 7/16: Musashi University
-* 7/24: Kyoto University
-* 7/31: Waseda University (School of Commerce)
-
 ## Teaching
 
 ### Teaching Assistant, University of Wisconsin-Madison
 * Introduction to Applied Econometrics (Undergraduate), Fall 2024, Fall 2025, Spring 2026
 * Introductory Econometrics (Undergraduate), Fall 2022, Spring 2023, Spring 2025
+
+## Upcoming Presentations
+* 7/11: JEMIOWxJ-TREE Joint Workshop at GRIPS
+* 7/16: Musashi University
+* 7/24: Kyoto University
+* 7/31: Waseda University (School of Commerce)
