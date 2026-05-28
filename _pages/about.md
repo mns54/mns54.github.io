@@ -10,7 +10,7 @@ redirect_from:
   - /home.html
 ---
 
-Hi! I am Masahiro Nishida, a Ph.D. Candidate in Economics at University of Wisconsin-Madison. My research interests are industrial organization and applied microeconomics.
+Hi! I am Masahiro Nishida, a Ph.D. Candidate in Economics at University of Wisconsin-Madison. My research interests are industrial organization and applied microeconomics. I will be on the 2026-27 job market.
 
 [**Email**](mailto:mnishida@wisc.edu) &#124; [**CV**](/files/CV.pdf)
 
@@ -50,6 +50,12 @@ Submitted
 
 ### Work in Progress
 * Product-Harm Crises and Intermediaries in the Used Car Market
+
+## Upcoming Presentation
+* 7/11: JEMIOWxJ-TREE Joint Workshop at GRIPS
+* 7/16: Musashi University
+* 7/24: Kyoto University
+* 7/31: Waseda University (School of Commerce)
 
 ## Teaching
 
