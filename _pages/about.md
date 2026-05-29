@@ -62,3 +62,4 @@ Submitted
 * 7/16: Musashi University
 * 7/24: Kyoto University
 * 7/31: Waseda University (School of Commerce)
+* 8/5: NBER Japan Project Meeting (presented by a coauthor)
