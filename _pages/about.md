@@ -10,12 +10,15 @@ redirect_from:
   - /home.html
 ---
 
-Hi! I am Masahiro Nishida, a Ph.D. Candidate in Economics at University of Wisconsin-Madison. My research interests are industrial organization and applied microeconomics. I will be on the 2026-27 job market.
+Hi! I am Masahiro Nishida, a Ph.D. Candidate in Economics at University of Wisconsin-Madison. My research interests are industrial organization, applied microeconomics, and productivity. I will be on the 2026-27 job market.
 
 [**Email**](mailto:mnishida@wisc.edu) &#124; [**CV**](/files/CV.pdf)
 
 
 ## Research
+
+### Job Market Paper
+* Product-Harm Crises and Intermediaries in the Used Car Market
 
 ### Working Papers
 * [The Impact of Cartels on Productivity: A Concrete Example from Japan](/files/impact_cartel.pdf)  
@@ -40,16 +43,13 @@ August 2025
 * [Potential Growth and Productivity in the Caribbean](https://www.imf.org/en/Publications/WP/Issues/2025/08/08/Potential-Growth-and-Productivity-in-the-Caribbean-568394)  
 (with [Alexander Amundsen](https://www.alexanderamundsen.com/), [Sophia Chen](https://sites.google.com/site/sophiachenecon/), [Pierre Guérin](https://sites.google.com/view/pierreguerineconomics/), and [Sinem Kilic Celik](https://scholar.google.com/citations?user=YPa7HrYAAAAJ))  
 August 2025  
-Submitted  
+Revision requested at *Journal of Macroeconomics*  
   <details class="wp-abstract">
     <summary>Abstract</summary>
     <div class="wp-abstract__body">
       Medium-term growth prospects of Caribbean countries have weakened in recent years. We examine these trends by providing new estimates of potential GDP growth for the region. Our findings reveal a broad-based decline over time, driven by declining contributions from human capital and total factor productivity. Linking these factors to firm-level data, we identify significant scope for aggregate productivity gains through the efficient reallocation of resources between firms and the removal of firm-level structural obstacles. Addressing issues such as the cost and access to finance, workforce education, tax administration, and business licensing and permits are associated with higher aggregate welfare.
     </div>
   </details>
-
-### Work in Progress
-* Product-Harm Crises and Intermediaries in the Used Car Market
 
 ## Teaching
 
