@@ -13,7 +13,6 @@ Hi! I am Masahiro Nishida, a Ph.D. Candidate in Economics at University of Wisco
 
 [**Email**](mailto:mnishida@wisc.edu) &#124; [**CV**](/files/CV.pdf)
 
-
 ## Research
 
 ### Job Market Paper
@@ -53,5 +52,5 @@ Revision requested at *Journal of Macroeconomics*
 ## Teaching
 
 ### Teaching Assistant, University of Wisconsin-Madison
-* Introduction to Applied Econometrics (Undergraduate), Fall 2024, Fall 2025, Spring 2026
+* Introduction to Applied Econometrics (Undergraduate), Fall 2024, Fall 2025, Spring 2026, Fall 2026
 * Introductory Econometrics (Undergraduate), Fall 2022, Spring 2023, Spring 2025
